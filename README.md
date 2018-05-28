@@ -15,6 +15,8 @@ F3: Show/hide nerdtree
 
 F4: Switch between splits
 
+F5: goto declaration of the word under cursor (using Ctags)
+
 ## Install (not tested)
 
 clone repo in ~/.vim/
