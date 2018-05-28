@@ -8,12 +8,12 @@ YouCompletMe: Code completion
 
 theme: materialmonokai
 
-## Custom
-F2: Indent (config: config/spacing)
+## Custom (customMap.vim)
+F2: Indent
 
-F3: Show/hide nerdtree (config: config/nerdtree)
+F3: Show/hide nerdtree
 
-F4: Switch between splits (config: config/spacing)
+F4: Switch between splits
 
 ## Install (not tested)
 

@@ -6,5 +6,3 @@ set shiftwidth=2
 " On pressing tab, insert 2 spaces
 set expandtab
 "  "
-nmap <silent> <F2> =G
-nmap <silent> <F4> <C-w><C-w>
