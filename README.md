@@ -8,6 +8,8 @@ YouCompletMe: Code completion
 
 tagbar: class outline viewer
 
+delimitMate: Automatic add closing quotes, parenthesis, brackets...
+
 theme: materialmonokai
 
 ## Custom (customMap.vim)
