@@ -6,6 +6,8 @@ Nerdtree: tree directory
 
 YouCompletMe: Code completion
 
+tagbar: class outline viewer
+
 theme: materialmonokai
 
 ## Custom (customMap.vim)
@@ -16,6 +18,8 @@ F3: Show/hide nerdtree
 F4: Switch between splits
 
 F5: goto declaration of the word under cursor (using Ctags)
+
+F6: toggle tagbar
 
 Ctrl+j: Resize frame to the left
 Ctrl+k: Resize frame up
