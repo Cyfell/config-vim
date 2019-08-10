@@ -31,7 +31,7 @@ Ctrl+m: Resize frame to the right
 Ctrl+i Go to previous tab 
 Ctrl+o Go to next tab
 
-## Install (not tested)
+## Install
 
 clone repo in ~/.vim/
 
