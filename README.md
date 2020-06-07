@@ -34,11 +34,9 @@ Ctrl+o Go to next tab
 ## Install
 
 clone repo in ~/.vim/
-'''bash
-git clone --recurse-submodules git@github.com:Cyfell/config-vim.git
-'''
+
+`git clone --recurse-submodules git@github.com:Cyfell/config-vim.git`
 
 create symlink between ~/.vimrc and ~/.vim/.vimrc
-'''bash
-ln -s .vim/vimrc .vimrc
-'''
+
+`ln -s .vim/vimrc .vimrc`
