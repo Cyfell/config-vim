@@ -4,8 +4,6 @@ Pathogen: Plugin manager
 
 Nerdtree: tree directory
 
-YouCompletMe: Code completion
-
 tagbar: class outline viewer
 
 delimitMate: Automatic add closing quotes, parenthesis, brackets...
