@@ -6,6 +6,8 @@ Nerdtree: tree directory
 
 tagbar: class outline viewer
 
+deoplete : autocompleter
+
 delimitMate: Automatic add closing quotes, parenthesis, brackets...
 
 theme: materialmonokai
@@ -38,3 +40,5 @@ clone repo in ~/.vim/
 create symlink between ~/.vimrc and ~/.vim/.vimrc
 
 `ln -s .vim/vimrc .vimrc`
+
++ see each submodule requirements...

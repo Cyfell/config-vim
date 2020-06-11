@@ -16,3 +16,18 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/deoplete.nvim"]
+	path = bundle/deoplete.nvim
+	url = git@github.com:Shougo/deoplete.nvim.git
+[submodule "bundle/deoplete-jedi"]
+	path = bundle/deoplete-jedi
+	url = git@github.com:deoplete-plugins/deoplete-jedi.git
+[submodule "bundle/deoplete-rust"]
+	path = bundle/deoplete-rust
+	url = git@github.com:sebastianmarkow/deoplete-rust.git
+[submodule "bundle/nvim-yarp"]
+	path = bundle/nvim-yarp
+	url = git@github.com:roxma/nvim-yarp.git
+[submodule "bundle/vim-hug-neovim-rpc"]
+	path = bundle/vim-hug-neovim-rpc
+	url = git@github.com:roxma/vim-hug-neovim-rpc.git
