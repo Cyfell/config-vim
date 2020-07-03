@@ -6,3 +6,4 @@ set shiftwidth=2
 " On pressing tab, insert 2 spaces
 set expandtab
 "  "
+set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:¶,precedes:«,extends:»
